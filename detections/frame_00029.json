@@ -1,0 +1,25 @@
+{
+  "frame": 29,
+  "timestamp": 1749851066.9956393,
+  "detections": [
+    {
+      "class": "boat",
+      "confidence": 0.3383144736289978,
+      "center": {
+        "x": 315,
+        "y": 243
+      },
+      "bbox": {
+        "x1": 1,
+        "y1": 13,
+        "x2": 630,
+        "y2": 474
+      },
+      "position_estimate": {
+        "x": -5,
+        "y": 3,
+        "z": 0.31
+      }
+    }
+  ]
+}
