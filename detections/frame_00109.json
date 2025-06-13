@@ -1,0 +1,17 @@
+{
+  "frame": 109,
+  "timestamp": 1749848726.2809846,
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.6533191800117493,
+      "bbox": {
+        "x1": 3,
+        "y1": 24,
+        "x2": 640,
+        "y2": 479
+      },
+      "distance_m": 0.42
+    }
+  ]
+}

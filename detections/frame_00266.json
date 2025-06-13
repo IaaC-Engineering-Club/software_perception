@@ -1,0 +1,25 @@
+{
+  "frame": 266,
+  "timestamp": 1749851144.0074408,
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.7288868427276611,
+      "center": {
+        "x": 325,
+        "y": 293
+      },
+      "bbox": {
+        "x1": 16,
+        "y1": 108,
+        "x2": 635,
+        "y2": 479
+      },
+      "position_estimate": {
+        "x": 5,
+        "y": 53,
+        "z": 0.52
+      }
+    }
+  ]
+}

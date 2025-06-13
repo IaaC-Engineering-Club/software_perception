@@ -1,0 +1,28 @@
+{
+  "frame": 68,
+  "timestamp": 1749848712.9965131,
+  "detections": [
+    {
+      "class": "boat",
+      "confidence": 0.4828781485557556,
+      "bbox": {
+        "x1": 101,
+        "y1": 123,
+        "x2": 490,
+        "y2": 315
+      },
+      "distance_m": 0.75
+    },
+    {
+      "class": "person",
+      "confidence": 0.3678986132144928,
+      "bbox": {
+        "x1": 224,
+        "y1": 163,
+        "x2": 255,
+        "y2": 198
+      },
+      "distance_m": 5.49
+    }
+  ]
+}

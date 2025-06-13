@@ -1,0 +1,44 @@
+{
+  "frame": 917,
+  "timestamp": 1749851420.5040848,
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.8138062953948975,
+      "center": {
+        "x": 38,
+        "y": 220
+      },
+      "bbox": {
+        "x1": 0,
+        "y1": 77,
+        "x2": 76,
+        "y2": 364
+      },
+      "position_estimate": {
+        "x": -282,
+        "y": -20,
+        "z": 0.67
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.5402476787567139,
+      "center": {
+        "x": 272,
+        "y": 285
+      },
+      "bbox": {
+        "x1": 14,
+        "y1": 92,
+        "x2": 530,
+        "y2": 478
+      },
+      "position_estimate": {
+        "x": -48,
+        "y": 45,
+        "z": 0.5
+      }
+    }
+  ]
+}

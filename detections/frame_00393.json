@@ -1,0 +1,44 @@
+{
+  "frame": 393,
+  "timestamp": 1749851185.6770568,
+  "detections": [
+    {
+      "class": "boat",
+      "confidence": 0.366890013217926,
+      "center": {
+        "x": 543,
+        "y": 137
+      },
+      "bbox": {
+        "x1": 468,
+        "y1": 31,
+        "x2": 619,
+        "y2": 243
+      },
+      "position_estimate": {
+        "x": 223,
+        "y": -103,
+        "z": 0.68
+      }
+    },
+    {
+      "class": "person",
+      "confidence": 0.2944364845752716,
+      "center": {
+        "x": 320,
+        "y": 237
+      },
+      "bbox": {
+        "x1": 7,
+        "y1": 0,
+        "x2": 633,
+        "y2": 475
+      },
+      "position_estimate": {
+        "x": 0,
+        "y": -3,
+        "z": 0.4
+      }
+    }
+  ]
+}
